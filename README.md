@@ -25,6 +25,6 @@ Penetration tester and CTF player. Came up through IT support — 1st/2nd level 
 ### 📌 Featured
 
 - [**OSCP-2026-Cheatsheet**](https://github.com/resux1338/OSCP-2026-Cheatsheet) — single-file, Ctrl+F-friendly methodology reference for the OSCP exam.
-
+- [**OSCP-2026-Compendium**](https://mystichackers.com/story/Njk) — the full compendium.
 ---
 
