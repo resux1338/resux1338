@@ -1,11 +1,6 @@
 <h1 align="center">resux1338</h1>
-<p align="center"><i>Penetration Testing · Offensive Security</i></p>
 
 ---
-
-Penetration tester and CTF player. Came up through IT support — 1st/2nd level straight into 3rd-level support and an infrastructure project team built on open source (OPNsense and friends) — before moving into full-time offensive security. I break web apps and Active Directory, and write up how it was done.
-
-**Focus areas:** Web exploitation · Active Directory · Linux infrastructure (NixOS, KVM/libvirt)
 
 ### 🔗 Links
 
